@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:layout_margin="10dp"
+    tools:context="com.sak.engineeingcollegeselection.SettingActivity1">
+
+    <EditText
+        android:id="@+id/changePassword_o"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Enter old Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textAlignment="viewStart"
+        android:layout_below="@+id/name"
+        android:layout_alignStart="@+id/changePassword_n" />
+
+    <EditText
+        android:id="@+id/changePassword_n"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint="Enter new Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textAlignment="viewStart"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/changePassword_o"
+        android:layout_alignStart="@+id/confrimpass" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@android:color/background_light"
+        android:text="save"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/confrimpass"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="36dp" />
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="33dp"
+        android:layout_marginStart="61dp"
+        android:backgroundTint="@android:color/background_light"
+        android:text="Reset"
+        android:layout_alignBaseline="@+id/save"
+        android:layout_alignBottom="@+id/save"
+        android:layout_toEndOf="@+id/save" />
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:hint=" Enter name "
+        android:inputType="textPersonName"
+        android:textAlignment="viewStart"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/changePassword_o" />
+
+    <EditText
+        android:id="@+id/confrimpass"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:hint=" Enter the new password again"
+        android:inputType="textPassword"
+        android:textAlignment="viewStart"
+        android:layout_below="@+id/changePassword_n"
+        android:layout_alignStart="@+id/save" />
+
+</RelativeLayout>

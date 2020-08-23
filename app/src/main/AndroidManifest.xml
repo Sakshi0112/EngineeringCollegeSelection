@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sak.engineeingcollegeselection">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".AdminActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity
+            android:name=".UserActivity"
+            android:parentActivityName=".NavigationUserActivity" />
+        <activity
+            android:name=".UserActivity1"
+            android:parentActivityName=".UserActivity" />
+        <activity
+            android:name=".UserActivity2"
+            android:parentActivityName=".UserActivity" />
+        <activity
+            android:name=".UserActivity3"
+            android:parentActivityName=".UserActivity" />
+        <activity
+            android:name=".UserActivity4"
+            android:parentActivityName=".UserActivity" />
+        <activity
+            android:name=".UserActivity5"
+            android:parentActivityName=".UserActivity" />
+        <activity
+            android:name=".UserActivity6"
+            android:parentActivityName=".UserActivity" />
+        <activity
+            android:name=".UserActivity7"
+            android:parentActivityName=".UserActivity" />
+        <activity
+            android:name=".SettingsActivity"
+            android:parentActivityName=".NavigationUserActivity" />
+        <activity
+            android:name=".SettingActivity1"
+            android:parentActivityName=".SettingsActivity" />
+        <activity
+            android:name=".NavigationUserActivity"
+            android:label="Engineering College Selection"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ForgotPasswordActivity" />
+        <activity
+            android:name=".TopUserActivity"
+            android:parentActivityName=".NavigationUserActivity" />
+        <activity
+            android:name=".TopUserActivity1"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity2"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity3"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity4"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity5"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity6"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity7"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity8"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity9"
+            android:parentActivityName=".TopUserActivity" />
+        <activity
+            android:name=".TopUserActivity10"
+            android:parentActivityName=".TopUserActivity" />
+        <activity android:name=".IITActivity"
+            android:parentActivityName=".NavigationUserActivity"/>
+        <activity android:name=".IITActivity1"
+            android:parentActivityName=".IITActivity"/>
+        <activity android:name=".NITActivity"
+            android:parentActivityName=".NavigationUserActivity"/>
+        <activity android:name=".NITActivity1"
+            android:parentActivityName=".NITActivity">
+        </activity>
+    </application>
+
+</manifest>

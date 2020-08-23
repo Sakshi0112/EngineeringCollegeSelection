@@ -1,0 +1,765 @@
+<resources>
+    <string name="app_name">Engineeing College Selection</string>
+
+    <!--ABHINAV-->
+    <string name="abhinav">Abhinav Education Society\'s College of Engineering and Technology</string>
+    <string name="description_txt">
+    The institution established with the aim to provide best and ever works for the improvement in the level of education. Faculty is very helpful and gives every possible support to their students which help in the promotion of their knowledge level. Institute collects lots of medals and awards in academics, sports and extra co-curricular activities. Management also keeps an eye on the staff and faculties for proper flow of education to their students. Institute is maintaining teacher assessment program which helps in teachers promotions. Management promotes teaching staff as well as the students for research. Institution is an active participant in NGO activities which helps their student to develop leadership quality.
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Address:</b>
+         Shop No 13, Ambegaon(Bk),, Pune-bangalore Bypass Highway, Katraj Road, Pune, Maharashtra 411046
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone: </b>020 2431 9098
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>70,000
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Available and Intake:</b>
+        1.Computer Science Engineering
+        <br>\n</br>
+        2. Electrical Engineering
+        <br>\n</br>
+        3.Electronics and Telecommunication Engineering
+        <br>\n</br>
+        4.Mechanical Engineering
+    </string>
+
+    <string name="linktosite">
+        <a href="http://abhinavsociety.org/">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap">
+        <a href="https://www.google.com/maps/dir/18.4955082,73.9757996/Abhinav+Education+Society,Narhe+411041,+Ambegaon+BK,+Mokarwadi,+Maharashtra+411041/@18.472473,73.8230015,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc29527a7ba8a29:0x12fd4bdfdaa2ccb1!2m2!1d73.8281196!2d18.4382147">For Direction CLICK HERE!</a>
+    </string>
+
+
+    <!--BVDU-->
+    <string name="deemed">Bharati Vidyapeeth Deemed University College of Engineering</string>
+    <string name="description_txt1">
+Bharati Vidyapeeth University College Of Engineering (BVUCOE), a premier college was established in 1983 by Dr. Patangrao Kadam under Bharati Vidyapeeth Deemed University. It is aligned to the mission Social Transformation through Dynamic Education and is therefore committed to attain global standards where knowledge is the key driving force in the rapidly changing globalized economy.
+        It is situated in Pune, Maharashtra. It offers under graduate and post graduate and Doctoral Engineering courses.
+        <br>\n</br>
+        <br>\n</br>
+        <b>Address:</b>
+         D-302, Medical College Rd, Shriram Nagar, Dhankawadi, Pune, Maharashtra 411043
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone: </b>020 2440 7131
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>120,613
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Available and Intake:</b>
+        <br>\n</br>
+        1.Computer Science Engineering (Intake:120 seats)
+         <br>\n</br>
+        2.Electronics and Telecommunication Engineering (Intake:120 seats)
+         <br>\n</br>
+        3.Mechanical Engineering (Intake:120 seats)
+        <br>\n</br>
+        4.Electronics Engineering (Intake:90 seats)
+         <br>\n</br>
+        5.Information Technology (Intake:60 seats)
+         <br>\n</br>
+        6.Production Engineering (Intake:60 seats)
+         <br>\n</br>
+        7.Chemical Engineering (Intake:60 seats)
+         <br>\n</br>
+        8.Electrical Engineering (Intake:60 seats)
+         <br>\n</br>
+        9.Civil Engineering (Intake:60 seats)
+
+    </string>
+    <string name="linktosite1">
+        <a href="http://bvuniversity.edu.in/">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap1">
+        <a href="https://www.google.com/maps/dir/18.4955082,73.9757996/Bharti+Vidyapeeth+College+Of+Engineering,+D-302,+D-302,+Medical+College+Rd,+Shriram+Nagar,+Dhankawadi,+Pune,+Maharashtra+411043/@18.4769776,73.8453109,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2eac706e502c7:0xac2628c7af8a6e88!2m2!1d73.8554715!2d18.4582936">For Direction CLICK HERE!</a>
+    </string>
+
+
+    <!-- BVCOEW-->
+
+    <string name="bharati_vidyapeeth_college_of_engineering_for_womens">Bharati Vidyapeeth College of Engineering for Women\'s</string>
+    <string name="description_txt2">Bharati Vidyapeeths College of Engineering for Women was established in
+            <b>June 2000</b>, with the collective efforts of experts having long and outstanding academic experience in the field of professional education with the mission Social transformation through dynamic education.\' At our College, emphasis is given to train the deserving young women who have an ambition to pursue higher education in engineering and are desirous of acquiring skills to meet the demands of fast growing industries, Technical Education and research facility. The college built up area and the infrastructure is as per the norms of AICTE, New Delhi.
+            <br>\n</br>
+            <br>\n</br>
+            <b> Vision and Mission of College</b>
+            <br>\n</br>
+            <b>
+            <u> Vision: </u>
+            </b>
+            Women Empowerment through Technical Education.
+            <br>\n</br>
+            <b>
+                <u> Mission: </u>
+            </b>
+            <br>\n</br>
+            Develop women students to rise to their full potential. Impart knowledge and prepare competent engineers
+            <br>\n</br>
+            <br>\n</br>
+            <b>ADDRESS: </b>
+            Bharti Vidyapeeth Dhankawdi,pune,maharshtra,411043
+            <br>\n</br>
+            <br>\n</br>
+            <b>Phone no:</b>
+            02024371684
+            <br>\n</br>
+            <br>\n</br>
+            <b>Streams Available :</b>
+            <br>\n</br>
+            1.COMPUTER ENGINEERING
+            (Intake 60 seats)
+            <br>\n</br>
+            2.ELECTRONICS and TELECOMMUNICATION ENGINEERING
+             (Intake 120 seats)
+            <br>\n</br>
+            3.INFORMATION TECHNOLOGY
+             (Intake 60 seats)
+            <br>\n</br>
+            <br>\n</br>
+            <b> Per Year Fees:</b>
+            ₹ 91,968
+
+</string>
+    <string name="linktosite2">
+        <a href="http://coewpune.bharatividyapeeth.edu/">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap2">
+        <a href="https://www.google.com/maps/dir/18.615078,73.8170853/bvcoew/@18.5317782,73.7381442,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2eac7eaade963:0x68e4a5b2d96883d7!2m2!1d73.8551438!2d18.4591147">For Direction CLICK HERE!</a>
+    </string>
+
+
+    <!-- PICT-->
+    <string name="pict">Pune Insitute of Computer Technology</string>
+    <string name="description_txt3">Pune Institute Of Computer Technology (PICT), Pune  was the first institute to introduce a Computer Engineering branch among private colleges in the Maharashtra state.
+    It was established by the Society for Computer Technology and Research in 1983
+    It is approved by AICTE and affiliated to University of Pune
+    The college is accredited by NAAC and is an ISO 9001:2008 certified institute
+    PICT aspires to be the leader in technical education and research of international repute
+        <br>/n</br>
+        <br>\n</br>
+        <b>Address:</b>
+        Survey No. 27, Near Trimurti Chowk, Dhankawadi, Pune, Maharashtra 411043
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b> 020 2437 2041
+        <br>\n</br>
+        <br>\n</br>
+        <b> Ranking: </b>
+            PICT is ranked 16th among the top 50 private engineering colleges of India by Mint
+        <br>\n</br>
+        <br>\n</br>
+        <b>Scholarship:</b>
+            Meritorious students of PICT continue to get their National Merit and other Government Scholarships
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b> ₹96,000
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Available and Intake:</b>
+        <br>\n</br>
+        1.Computer Science Engineering (2 Courses i.e.,Morning and Afternoon Session)240 seats
+        <br>\n</br>
+        2.Electronics and Telecommunication Engineering (2 Courses i.e.,Morning and Afternoon Session)240 seats
+        <br>\n</br>
+        3.Information Technology (1 Course i.e.,Morning Session)1180 seats
+    </string>
+
+    <string name="linktosite3">
+        <a href="https://pict.edu/">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap3">
+        <a href="https://www.google.com/maps/dir/18.615078,73.8170853/pict/@18.5345369,73.7678626,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2eac85230ba47:0x871eddd0a8a0a108!2m2!1d73.8508336!2d18.4575421">For Direction CLICK HERE!</a>
+    </string>
+
+
+    <!-- UNIVERSAL-->
+    <string name="universal_college">Universal College of Engineering and Research</string>
+    <string name="description_txt4">
+        Universal College Of Engineering And Research (UCOER) was established in 2010. Well qualified lecturers are appointed with experience of more than 8 to 10 years. The quality training is assured with latest infrastructure maintained at college site. The advance knowledge with adequate hands on will be given to students through the faculty.
+        A well behaved office staff is appointed and no comprise on quality is ensured. College offers Both Degree and diploma courses
+        <br>\n</br>
+        <br>\n</br>
+        <b>
+            Address:
+        </b>
+        Sr. No. 430, A/P Sasewadi, (Near Katraj New Tunnel), Taluka- Bhor, Dist. Pune, Pune, Maharashtra 412205
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b> 02113 220 000
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Available and Intake:</b>
+        <br>\n</br>
+        1.Mechanical Engineering (Intake:180)
+        <br>\n</br>
+        2.Computer Science Engineering (Intake:120)
+        <br>\n</br>
+        3.Electronics and Telecommunication Engineering (Intake:120)
+        <br>\n</br>
+        4.Electrical Engineering (Intake:60)
+        <br>\n</br>
+        5.Civil Engineering (Intake:60)
+
+</string>
+    <string name="linktosite4">
+        <a href="http://universalcollegeofengineering.edu.in/">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap4">
+        <a href="https://www.google.com/maps/dir/18.4955082,73.9757996/universal+college+of+engineering/@18.4355318,73.8264447,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2ecac28b426fb:0x9ee69d56ac551fa3!2m2!1d73.847072!2d18.382141">For Direction CLICK HERE!</a>
+    </string>
+
+
+    <!--VIT-->
+    <string name="vishwarkarma">Vishwakarma Institute of Technology</string>
+    <string name="description_txt5">
+    VIT is a Private Institute located in Bibwewadi, Pune (Maharashtra) that was established in the year 1983. The Institute is affiliated to Savitribai Phule Pune University and offers various UG, PG and Ph.D. courses. Admission to certain courses will be on the basis of Entrance Exams – JEE Main / MHT-CET (B.Tech), GATE / MHT-CET (M.Tech), MAH-MCA-CET (MCA).
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Address:</b>
+         666, Upper Indiranagar, Bibvewadi, Pune, Maharashtra 411037
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone: </b> 02024202198
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b> ₹ 1.4 lakhs
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Available and Intake:</b>
+          <br>\n</br>
+        1.Mechanical Engineering (1 course) (Intake:180 seats)
+          <br>\n</br>
+        2.Computer Science Engineering (2 courses) (Intake:180 seats)
+          <br>\n</br>
+        3.Electronics Engineering (1 Course) (Intake:120 seats)
+          <br>\n</br>
+        4.Electronics and Telecommunication Engineering (2 Courses) (Intake:120 seats)
+          <br>\n</br>
+        5.Industrial Engineering (1 Course) (Intake:60 seats)
+          <br>\n</br>
+        6.Production Engineering (1 course) (Intake:60 seats)
+          <br>\n</br>
+        7.Chemical Engineering (1 Course) (Intake:60 seats)
+          <br>\n</br>
+        8.Instrumentation and Control Engineering (Intake:60 seats)
+          <br>\n</br>
+        9.Information Technology (Intake:60 seats)
+    </string>
+
+    <string name="linktosite5">
+        <a href="http://www.vit.edu/">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap5">
+        <a href="https://www.google.com/maps/dir/18.4955082,73.9757996/vit+pune/@18.4812647,73.8466205,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2ea950f616219:0x321bdae2cea9f064!2m2!1d73.867619!2d18.464077">For Direction CLICK HERE!</a>
+    </string>
+
+    <!--ZEAL-->
+    <string name="zeal">Zeal College of Engineering and Research</string>
+    <string name="description_txt6">
+    Dnyanganga College Of Engineering And Research (DCOER) was established in 2007 by Zeal education society. It is committed to impart quality education and training leading to various professional degrees and aims to be a global Institution through continual improvement. It is situated in Pune, Maharashtra. The site is surrounded by agriculture land as well as industries. It offers under graduate and post graduate Engineering courses. It also offers management courses.
+   It is approved by AICTE, New Delhi
+  It is affiliated to University of Pune
+        <br>\n</br>
+        <br>\n</br>
+        <b>Address:</b>
+         s.no, 39, Narhe Gaon Rd, Narhe, Pune, Maharashtra 411041
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone: </b> 020 6720 6000
+
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b> ₹ 114,882
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Available and Intake:</b>
+        1.Mechanical Engineering (Intake:300 seats)
+        <br>\n</br>
+        2.Computer Science Engineering (Intake:180 seats)
+        <br>\n</br>
+        3.Information Technology (Intake:120 seats)
+        <br>\n</br>
+        4.Electronics and Telecommunication Engineering (Intake:120 seats)
+        <br>\n</br>
+        5.Electrical Engineering (Intake:120 seats)
+        <br>\n</br>
+        6.Civil Engineering (Intake:60 seats)
+    </string>
+
+    <string name="linktosite6">
+        <a href="http://www.zealeducation.com/">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap6">
+        <a href="https://www.google.com/maps/dir/18.4955082,73.9757996/zeal+college/@18.4746264,73.8230015,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bc2be933201c149:0x1c055d83993ff72b!2m2!1d73.82481!2d18.4490356">For Direction CLICK HERE!</a>
+    </string>
+
+    <!--AIT-->
+    <string name="ait">Army Institute of Technology, Pune (AIT)</string>
+    <string name="description_txt7">Army Institute of Technology, Pune (AIT) is an Undergraduate engineering college that was established in the year 1994. AIT is located at Dighi Hills, Alandi Road area in Pune, Maharashtra, India. The ISO-certified Institute is affiliated to Savitribai Phule Pune University and offers Undergraduate and Postgraduate programs in streams like Engineering, Technology etc
+    <br>/n</br>
+        <b>Address:</b>
+        Alandi Road, Dighi Hills, Pune, Maharashtra 411015
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b>
+         020 2715 7612
+        <br>\n</br>
+        <br>\n</br>
+        <b>Scholarship:</b>
+         Meritorious students continue to get their Government Merit Scholarships.
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>
+         RS.154,543
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Avaliable </b>
+        <br>\n</br>
+        1.COMPUTER ENGINEERING [60 seats]
+        <br>\n</br>
+        2.ELECTRONICS and TELECOMMUNICATION ENGINEERING [60 seats]
+        <br>\n</br>
+        3.MECHANICAL ENGINEERING [60 seats]
+        <br>\n</br>
+        4.INFORMATION TECHNOLOGY [60 seats]
+    </string>
+    <string name="linktosite7">
+        <a href="https://www.aitpune.com/Admissions.aspx">For Further Information CLICK HERE!</a>
+    </string>
+    <string name="linktomap7">
+        <a href="https://www.google.co.in/maps/place/Army+Institute+of+Technology/@18.6068601,73.8729933,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2c70090000001:0x160a20f3d0273495!8m2!3d18.606855!4d73.875182">For Direction CLICK HERE!</a>
+    </string>
+
+    <!--COEP-->
+    <string name="coep">College of Engineering Pune [COEP]</string>
+    <string name="description_txt8">College of Engineering Pune (COEP) is an Autonomous Institute located in Pune, Maharashtra and was established in the year 1854. The Institute is affiliated to Savitribai Phule Pune University (SPPU) and is approved by All India Council for Technical Education (AICTE). COEP offers B.Tech, M.Tech, PG Diploma and Ph.D research programs.
+        <br>/n</br>
+        Candidates seeking admission to B.Tech program must score at least 55% marks in 10+2 (Science Stream). Final Selection to the course will be done on the basis of scores obtained in MHT CET/ JEE Main Entrance Exam.
+        <b>Address:</b>
+        Wellesley Rd, Shivajinagar, Pune, Maharashtra 411005
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b>
+        020 2550 7000
+        <br>\n</br>
+        <br>\n</br>
+        <b>Scholarship:</b>
+      Meritorious students of COEP continue to get their Government Merit Scholarships.
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>
+        RS.85,588
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Avaliable </b>
+        <br>\n</br>
+        1.CIVIL ENGINEERING
+        <br>\n</br>
+        2.INSTRUMENTATION and CONTROL ENGINEERING
+        <br>\n</br>
+        3.PRODUCTION ENGINEERING
+        <br>\n</br>
+        4.ELECTRICAL ENGINEERING
+        <br>\n</br>
+        5.ELECTRONICS and TELECOMMUNICATION ENGINEERING
+        <br>\n</br>
+        6.MECHANICAL ENGINEERING
+        <br>\n</br>
+        7.METALLURGICAL ENGINEERING
+        <br>\n</br>
+        8.COMPUTER SCIENCE
+        <br>\n</br>
+        9. INFORMATION TECHNOLOGY
+    </string>
+    <string name="linktosite8">
+        <a href="http://www.coep.org.in/">For Further Information CLICK HERE!</a>
+    </string>
+    <string name="linktomap8">
+        <a href="https://www.google.co.in/maps/place/College+of+Engineering+Pune/@18.529087,73.8543609,17z/data=!4m8!1m2!2m1!1sCollege+of+Engineering+Pune+%5BCOEP%5D!3m4!1s0x3bc2c0883858b873:0x1d68fbf2cac75519!8m2!3d18.5292893!4d73.8565481">For Direction CLICK HERE!</a>
+    </string>
+
+    <!--  isbm-->
+    <string name="isbm">ISBM School of Technology,Pune</string>
+    <string name="description_txt9">ISBM School of Technology a Constituent of People Empowerment Group, offers Bachelor of Engineering (BE) Programme and is approved by AICTE – Delhi, DTE – Mumbai, Maharashtra State Government and Affiliated to Savitribai Phule Pune University. The ISBM Engineering college offers UG engineering degree courses in Computer, ETC and Mechanical engineering. The college also offers PGDM Cources.
+    <br>/n</br>
+        <b>Address:</b>
+        Survey No. 44/1, 44/1/2, Pashan, Near Susgoan Taluka Mulshi, Sus Road, Nande, Maharashtra 412115
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b>
+        020 6675 4655
+        <br>\n</br>
+        <br>\n</br>
+        <b> Ranking: </b>Ranked 3rd among Top Emerging Engineering Institutes in India
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>
+        RS. 75,000
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Avaliable and Intake:</b>
+        <br>\n</br>
+        1.COMPUTER ENGINEERING [60 seats]
+        <br>\n</br>
+        2.ELECTRONICS and TELECOMMUNICATION ENGINEERING [60 seats]
+        <br>\n</br>
+        3.MECHANICAL ENGINEERING [60 seats]
+        <br>\n</br>
+        4.INFORMATION TECHNOLOGY [60 seats]
+    </string>
+    <string name="linktosite9">
+        <a href="https://www.isbmsot.org/">For Further Information CLICK HERE!</a>
+    </string>
+    <string name="linktomap9">
+        <a href="https://www.google.co.in/maps/place/ISB%26M+School+Of+Technology,+Nande,+Pune/@18.544029,73.7302244,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2bc1636252b2b:0xa40195fb30c10384!8m2!3d18.5440239!4d73.7324131">For Direction CLICK HERE!</a>
+    </string>
+
+    <!--MIT-->
+    <string name="mit">MAEERS Maharashtra Institute of Technology (MIT)</string>
+    <string name="description_txt10">It was established in the year 1983. MIT Pune is affiliated to the University of Pune and recognized by the Government of Maharashtra and the All India Council of Technical Education (AICTE), New Delhi. MIT Pune offers four year degree courses in various branches of engineering and post graduate courses in which the admission will be based on the merit.
+        <br>/n</br>
+        Admission to the undergraduate courses in MIT Pune is done through the Maharashtra Common Entrance Test (MAH CET) for the 65% state allocated seats and through JEE Main for all India seats.
+        <br>/n</br>
+        <b>Address:</b>
+        Survey No. 124, MIT College Campus, Paud Road, Rambaug Colony, Kothrud, Pune, Maharashtra 411038
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b>020 3027 3400
+        <br>\n</br>
+        <br>\n</br>
+        <b> Ranking: </b>MIT is ranked 2nd among the top private engineering colleges of India.
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>
+        RS.100,685
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Avaliable and Intake:</b>
+        <br>\n</br>
+        1.CIVIL ENGINEERING
+        <br>\n</br>
+        2.COMPUTER ENGINEERING
+        <br>\n</br>
+        3.ELECTRONICS and TELECOMMUNICATION ENGINEERING
+        <br>\n</br>
+        4.MECHANICAL ENGINEERING
+        <br>\n</br>
+        5.INFORMATION TECHNOLOGY
+        <br>\n</br>
+        6.PETROLEUM ENGINEERING
+    </string>
+    <string name="linktosite10">
+        <a href="http://www.mitpune.com/">For Further Information CLICK HERE!</a>
+    </string>
+    <string name="linktomap10">
+        <a href="https://www.google.co.in/maps/place/Maharashtra+Institute+of+Technology/@18.5190182,73.8126949,17z/data=!4m8!1m2!2m1!1sMAEERS+Maharashtra+Institute+of+Technology!3m4!1s0x3bc2bfb9e53a05f9:0x2be5e8da02be693e!8m2!3d18.5183671!4d73.8147226">For Direction CLICK HERE!</a>
+    </string>
+
+    <!--Cummins-->
+    <string name="cummines">MKSSS Cummins College of Engineering for Women, Pune</string>
+    <string name="description_txt11">It is an Autonomous Institute affiliated to Savitribai Phule Pune University.Our founder Bharat Ratna Maharshi Dhondo Keshav Karve sowed the seeds. This College is accredited by NAAC A (National Assessment and Accreditation Council) validity is 29 Oct 2022 and the score is 3.16 .
+        <br>/n</br>
+        <b>Address:</b>
+        Survey No. 11, 2, Cummins College Rd, Karve Nagar, Pune, Maharashtra 411052
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b>
+        020 2531 1000
+        <br>\n</br>
+        <br>\n</br>
+        <b>Scholarship:</b>
+        Meritorious students continue to get their Government Merit Scholarships.
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>
+        RS.1.3 lakh
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Avaliable </b>
+        <br>\n</br>
+        1.Computer Science [1st shift: 120 seats and 2nd shift: 60 seats]
+        <br>\n</br>
+        2.Electronics and Telecommunication Engineering [1st shift: 120 seats and 2nd shift: 60 seats]
+        <br>\n</br>
+        3.Instrumentation and Control Engineering [60 seats]
+        <br>\n</br>
+        4.Mechanical Engineering [60 seats]
+    </string>
+    <string name="linktosite11">
+        <a href="http://cumminscollege.org/">For Further Information CLICK HERE!</a>
+    </string>
+    <string name="linktomap11">
+        <a href="https://www.google.co.in/maps/place/MKSSS%E2%80%99s+Cummins+College+of+Engineering+for+Women/@18.529087,73.8543609,17z/data=!4m5!3m4!1s0x3bc2bfddd0bd94a5:0xa3d6c3e7e8c6d39!8m2!3d18.486394!4d73.8161302">For Direction CLICK HERE!</a>
+    </string>
+
+    <!-- Sinhgad-->
+    <string name="sinhgad">Sinhgad Academy of Engineering,Kondhwa,Pune</string>
+    <string name="description_txt12">Sinhgad Academy of Engineering is a technical education institute in the city of Kondhwa, Pune, India. The institute is affiliated with the University of Pune and managed by the Sinhgad Technical Education Society. Grade \'A\' accredited by NAAC.
+    <br>/n</br>
+        <b>Address:</b>
+        40, Kondhwa-Saswad Road, Sinhgad Kondwa, Danny Mehata Nagar, Kondhwa, Pune, Maharashtra 411048
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b>
+        020 2690 6244
+        <br>\n</br>
+        <br>\n</br>
+        <b>Scholarship:</b>
+        Meritorious students continue to get their Government Merit Scholarships.
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>RS.154,543
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Avaliable </b>
+        <br>\n</br>
+        1.Computer Science Engineering (2 shifts)
+        <br>\n</br>
+        2.Electronics Engineering (2 shifts)
+        <br>\n</br>
+        3.Mechanical Engineering (2 shifts)
+        <br>\n</br>
+        4.Telecommunication Engineering (2 shifts)
+        <br>\n</br>
+        5.Civil Engineering (1 shifts)
+        <br>\n</br>
+        6.Information Technology (1 shifts)
+    </string>
+    <string name="linktosite12">
+        <a href="http://cms.sinhgad.edu/sinhgad_engineering_institutes/saoe/contact-us.aspx">For Further Information CLICK HERE!</a>
+    </string>
+    <string name="linktomap12">
+        <a href="https://www.google.co.in/maps/place/Sinhgad+Academy+Of+Engineering/@18.4427801,73.8933899,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2c07cabcb7165:0x416c45e42c0467be!8m2!3d18.442775!4d73.8955786">For Direction CLICK HERE!</a>
+    </string>
+    >
+
+    <!-- Symbosis-->
+    <string name="siu">Symbiosis International University (SIU)</string>
+    <string name="description_txt13">It is a deemed university which was established in 2002. SIU Pune comes under flagship of Symbiosis Society which is a non-profitable organization. It is a private coeducational, multi-institutional university having 19 academic institutions spread over nine campuses in Pune, Bangalore, Noida, and Nasik. The university offers various Graduate, Post Graduate and Diploma level programs and apart from regular courses.
+        <br>\n</br>
+        <b>Address:</b>Lavale, Mulshi, Pune, Maharashtra 412115
+        <br>\n</br>
+        <br>\n</br>
+        <b>Phone:</b>
+        0020 3911 6200
+        <br>\n</br>
+        <br>\n</br>
+        <b>Scholarship:</b>
+        Meritorious students continue to get their Government Merit Scholarships.
+        <br>\n</br>
+        <br>\n</br>
+        <b>Fees per year:</b>RS.265,000
+        <br>\n</br>
+        <br>\n</br>
+        <b>Streams Avaliable </b>
+        <br>\n</br>
+        1.CIVIL ENGINEERING
+        <br>\n</br>
+        2.COMPUTER SCIENCE
+        <br>\n</br>
+        3.ELECTRONICS and TELECOMMUNICATION ENGINEERING
+        <br>\n</br>
+        4.MECHANICAL ENGINEERING
+        <br>\n</br>
+        5.INFORMATION TECHNOLOGY
+    </string>
+    <string name="linktosite13">
+        <a href="https://www.siu.edu.in/">For Further Information CLICK HERE!</a>
+    </string>
+    <string name="linktomap13">
+        <a href="https://www.google.co.in/maps/place/Symbiosis+International/@18.5361095,73.7289951,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc2bf9caf148cef:0x4b9133b7a228d7d0!8m2!3d18.5361044!4d73.7311838">For Direction CLICK HERE!</a>
+    </string>
+
+    <!--IIT -->
+    <string name="iit">Indian Institutes of Technology (IIT)</string>
+    <string name="description_txt14">
+    The Indian Institutes of Technology (IITs) are autonomous public institutes of higher education, located in India.They are governed by the <u>Institutes of Technology Act</u>.Each IIT is an autonomous institution, linked to the others through a common IIT Council.
+    The first IIT was set up in Kharagpur in 1951.
+        <br>\n</br>
+    Admission Process is common for all IITs.
+        <br>\n</br>
+    1.For Undergraduate Admission their is Joint Entrance Examination.Students are admitted according to their marks in JEE Advance exam.
+        <br>\n</br>
+    2.For Post-graduate Admission their is Graduate Aptitude Test in Engineering(GATE) for proceeding education in M.Tech., MS degrees, and the doctoral programme that offers Ph.D. in engineering.
+    <br>\n</br>
+        3. For Graduate Degree Admission their is Common Admission Test (CAT), Joint Admission Test for M.Sc. (JAM) and Common Entrance Examination for Design (CEED) for proceeding education M.Sc in Maths, Physics and Chemistry, MBA, etc.
+        <br>\n</br>
+    <b>IIT Colleges in India</b>
+    There are overall <i>23 IIT Colleges</i> in India as follows:
+        <br>\n</br>
+        <u>1.IIT Kharagpur</u> in West Bengal
+    </string>
+
+    <string name="iit_maharashtra">
+    <u><b>2.IIT Bombay </b>in Maharastra</u>
+    </string>
+
+    <string name="description_txt15">
+    <u>3.IIT Kanpur</u> in Uttar Pradesh<br>\n</br>
+    <u>4.IIT Madras</u> in Tamil Nadu<br>\n</br>
+    <u>5.IIT Delhi</u> in Delhi<br>\n</br>
+    <u>6.IIT Guwahati</u> in Assam<br>\n</br>
+    <u>7.IIT Roorkee</u> in Uttarakhand<br>\n</br>
+    <u>8.IIT Ropar</u> in Punjab<br>\n</br>
+    <u>9.IIT Bhubaneswar</u> in Odisha<br>\n</br>
+    <u>10.IIT Gandhinagar</u> in Gujarat<br>\n</br>
+    <u>11.IIT Hyderabad</u> in Telangana<br>\n</br>
+    <u>12.IIT Jodhpur</u> in Rajasthan<br>\n</br>
+    <u>13.IIT Patna</u> in Bihar<br>\n</br>
+    <u>14.IIT Indore</u> in Madhya Pradesh<br>\n</br>
+    <u>15.IIT Mandi</u> in Himachal Pradesh<br>\n</br>
+    <u>16.IIT (BHU) Varanasi</u> in Uttar Pradesh<br>\n</br>
+    <u>17.IIT Palakkad</u> in Kerala<br>\n</br>
+    <u>18.IIT Tirupati</u> in Andhra Pradesh<br>\n</br>
+    <u>19.IIT Dhanbad</u> in Jharkhand<br>\n</br>
+    <u>20.IIT Bhilai</u> in Chhattisgarh<br>\n</br>
+    <u>21.IIT Goa</u> in Goa<br>\n</br>
+    <u>22.IIT Jammu</u> in Jammu and Kashmir<br>\n</br>
+    <u>23.IIT Dharwad</u> in Karnataka
+    </string>
+
+    <string name="description_txt16">It is a public engineering institution. It was founded in 1958. It is located at Powai, Mumbai, India. IIT Bombay has a comprehensive graduate program offering doctoral degrees in Science, Technology, Engineering and Mathematics. Currently IIT Bombay has a total of 14 academic departments, six centers, one school, and three interdisciplinary programmes.
+     The Annual Science and Technology festival of IIT Bombay, Techfest, which was started in 1998 and is held in the month of December every year and is Asia\'s largest science and tech festival. It comprises various events like competitions, exhibits and talks from guest speakers from around the world.
+    <br>\n</br>
+    <br>\n</br>
+    <b>Nick-named</b>: IITians, Mumbai-IITians
+     <br>\n</br>
+     <br>\n</br>
+    <b>Address</b>: Adi Shankaracharya Marg, Powai, Mumbai, Maharashtra, India
+    <br>\n</br>
+    <br>\n</br>
+    <b>Phone Number</b>:022 2572 2545
+     <br>\n</br>
+    <br>\n</br>
+    <b>Undergraduate tuition and fees:</b> 2 Lakh INR (2016)
+    </string>
+
+    <string name="linktosite14">
+        <a href="www.iitb.ac.in">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap14">
+        <a href="https://www.google.com/maps/place/Adi+Shankaracharya+Marg,+Powai,+Mumbai,+Maharashtra/@19.1234245,72.9063409,17z/data=!3m1!4b1!4m5!3m4!1s0x3be7c8069e2baf87:0xa9c8eaf6322cb67a!8m2!3d19.1234245!4d72.9085296">For Direction CLICK HERE!</a>
+    </string>
+
+
+    <!--NIT-->
+
+    <string name="nit">National Institutes of Technology (NITs)</string>
+
+    <string name="description_txt17">
+    NITs are autonomous public institutes of higher education, located in India. They are governed by the National Institutes of Technology Act, 2007, which declared them as institutions of national importance alongside Indian Institutes of Technology.
+    The NIT Council is the supreme governing body of India\'s National Institutes of Technology (NIT) system and all 31 NITs are funded by the Government of India.
+        <br>\n</br>
+    Admission Process is common for all NITs.
+        <br>\n</br>
+    1.For Undergraduate Admission their is Joint Entrance Examination.Students are admitted according to their marks in JEE Advance exam for proceeding education in Bachelor of Technology (B.Tech.) and Bachelor of Architecture (B.Arch).
+    <br>\n</br>
+        2.For Post-graduate Admission their is Graduate Aptitude Test in Engineering(GATE) for proceeding education in Master of Technology (M.Tech.) and Master of Science (M.Sc.) programs.
+        <br>\n</br>
+        3. Common Admission Test is for Master of Business Administration (MBA) program
+        <br>\n</br>
+    4. NIMCET is for Master of Computer Applications (MCA) program.
+    <b>NIT Colleges in India</b>
+    There are overall <i>31 NIT Colleges</i> in India as follows:
+        <br>\n</br>
+     1.<u>  NIT Allahabad</u> in Uttar Pradesh<br>\n</br>
+     2.<u>  NIT Bhopal</u> in Madhya Pradesh<br>\n</br>
+     3.<u>  NIT Calicut</u> in  Kerala<br>\n</br>
+     4.<u>  NIT Hamirpur</u> in Himachal Pradesh<br>\n</br>
+     5.<u>  NIT Jaipur</u> in Rajasthan<br>\n</br>
+     6.<u>  NIT Jalandhar</u> in Punjab<br>\n</br>
+     7.<u>  NIT Jamshedpur</u> in Jharkhand<br>\n</br>
+     8.<u>  NIT Kurukshetra</u> in Haryana
+    </string>
+
+    <string name="nit_maharashtra">
+    9.<u><b>  NIT Nagpur </b>in Maharastra</u>
+    </string>
+
+    <string name="description_txt18">
+     10.<u>NIT Rourkela</u> in Odisha<br>\n</br>
+     11.<u>NIT Silchar</u> in Assam<br>\n</br>
+     12.<u>NIT Karnataka</u> in Karnataka<br>\n</br>
+     13.<u>NIT Warangal</u> in Telangana<br>\n</br>
+     14.<u>NIT Durgapur</u> in West Bengal<br>\n</br>
+     15.<u>NIT Srinagar</u> in  Jammu and Kashmir<br>\n</br>
+     16.<u> NIT Surat</u> in Gujarat<br>\n</br>
+     17.<u> NIT Trichy</u> in Tamil Nadu<br>\n</br>
+     18.<u> NIT Patna</u> in Bihar<br>\n</br>
+     19.<u>NIT Raipur</u> in Chhattisgarh<br>\n</br>
+     20.<u> NIT Agartala</u> in Tripura<br>\n</br>
+     21.<u> NIT Arunachal Pradesh</u> in Arunachal Pradesh<br>\n</br>
+     22.<u>NIT Delhi</u> in Delhi<br>\n</br>
+     23.<u> NIT Goa</u> in Goa<br>\n</br>
+     24.<u> NIT Manipur</u> in Manipur<br>\n</br>
+     25.<u> NIT Meghalaya</u> in Meghalaya<br>\n</br>
+     26.<u> NIT Mizoram</u> in Mizoram<br>\n</br>
+     27.<u>NIT Nagaland</u> in  Nagaland<br>\n</br>
+     28.<u>NIT Puducherry</u> in Puducherry<br>\n</br>
+     29.<u> NIT Sikkim</u> in Sikkim<br>\n</br>
+     30.<u> NIT Uttarakhand</u> in Uttarakhand<br>\n</br>
+     31.<u>NIT Andhra Pradesh</u> in Andhra Pradesh<br>\n</br>
+    </string>
+
+    <string name="description_text19">
+    Visvesvaraya National Institute of Technology (VNIT Nagpur) is a public engineering and research institution in India. It is located in Nagpur, Maharashtra, in central India. It was established in June 1960 by the Government of India.
+    VNIT Nagpur has various academic departments, with over 30 specialized laboratories and research centers.
+    The Engineering undergraduate programs are usually of four-year duration, while Architecture has a five-year program. The institute accepts an incoming freshman class size of up to 798 students.
+    <br>\n</br>
+    <br>\n</br>
+    <b>Address</b>: S Ambazari Rd, Ambazari, Nagpur, Maharashtra 440010
+    <br>\n</br>
+    <br>\n</br>
+    <b>Phone Number</b>:(+91-712-) 2222828, 2224123, 2231636, 2226750
+    <br>\n</br>
+    <br>\n</br>
+    <b>Undergraduate tuition and fees:</b> 70,000 INR (2016)
+</string>
+
+    <string name="linktosite15">
+        <a href="www.vnit.ac.in">For Further Information CLICK HERE!</a>
+    </string>
+
+    <string name="linktomap15">
+        <a href="https://www.google.co.in/maps/dir/18.4641866,73.8669699/Visvesvaraya+National+Institute+of+Technology,+S+Ambazari+Rd,+Nagpur,+Maharashtra+440010/@19.7987631,74.2342905,7z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bd4c070e8004c25:0xdcfcc32c89158bc3!2m2!1d79.0515878!2d21.1263">For Direction CLICK HERE!</a>
+    </string>
+
+
+
+    <string name="title_activity_navigation_user">NavigationUserActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+</resources>

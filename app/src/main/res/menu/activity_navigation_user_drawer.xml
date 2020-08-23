@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/college2"
+            android:icon="@drawable/ic_college"
+            android:title="IIT Colleges"/>
+        <item
+            android:id="@+id/college3"
+            android:icon="@drawable/ic_college"
+            android:title="NIT Colleges"/>
+        <item
+            android:id="@+id/college1"
+            android:icon="@drawable/ic_college"
+            android:title="Top 10 Colleges in Pune" />
+        <item
+            android:id="@+id/college"
+            android:icon="@drawable/ic_college"
+            android:title="Colleges in Katraj" />
+
+
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Settings" />
+
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
